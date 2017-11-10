@@ -1,4 +1,4 @@
-# Superpixel_Hierarchy
+# Superpixel_Hierarchy (Windows)
 
 1. to link against libmx.lib libmat.lib libeng.lib in your Linker options
 
